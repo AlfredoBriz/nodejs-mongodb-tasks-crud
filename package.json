@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@babel/cli": "^7.16.7",
+    "@babel/runtime": "^7.16.7",
     "dotenv": "^14.3.2",
     "express": "^4.17.2",
     "express-handlebars": "^6.0.2",
